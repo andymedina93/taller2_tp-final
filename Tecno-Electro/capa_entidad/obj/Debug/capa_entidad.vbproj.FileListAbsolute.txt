@@ -1,0 +1,51 @@
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.xml
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.vbproj.AssemblyReference.cache
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.Resources.resources
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.vbproj.GenerateResource.cache
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.vbproj.CoreCompileInputs.cache
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.xml
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.pdb
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\bin\Debug\System.Data.SqlClient.xml
+C:\Users\andim\OneDrive\Escritorio\Proyecto Taller2\Tecno-Electro\capa_entidad\obj\Debug\capa_ent.5C85953C.Up2Date
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\System.Data.SqlClient.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.vbproj.AssemblyReference.cache
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.Resources.resources
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.vbproj.GenerateResource.cache
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.vbproj.CoreCompileInputs.cache
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_ent.5C85953C.Up2Date
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\obj\Debug\capa_entidad.pdb
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\ContentReportBuilder.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\ContentReportBuilder.iTextSharp.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\itextsharp.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\OxyPlot.Core.Drawing.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\OxyPlot.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\System.Drawing.Common.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\itextsharp.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\OxyPlot.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\OxyPlot.Core.Drawing.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\capa_entidad.dll.config
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\LiveCharts.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\LiveCharts.pdb
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\LiveCharts.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\andim\OneDrive\Escritorio\G30_MbenitezAugusto_MedinaAndrea\Tecno-Electro\capa_entidad\bin\Debug\OxyPlot.WindowsForms.xml

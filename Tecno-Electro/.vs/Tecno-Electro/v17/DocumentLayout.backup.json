@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\panel_reporte.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\panel_reporte.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\panel_reporte.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\panel_reporte.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\reportes_ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\reportes_ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|c:\\users\\andim\\onedrive\\escritorio\\g30_mbenitezaugusto_medinaandrea\\tecno-electro\\capa_presentacion\\menupanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC6F293F-97AA-4D23-AE46-1AB036A29F14}|capa_Presentacion\\capa_Presentacion.vbproj|solutionrelative:capa_presentacion\\menupanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CFE817-6E9B-478C-81C8-10F7E17871D7}|capa_negocio\\capa_negocio.vbproj|C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_negocio\\cn_productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71CFE817-6E9B-478C-81C8-10F7E17871D7}|capa_negocio\\capa_negocio.vbproj|solutionrelative:capa_negocio\\cn_productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Panel_Reporte.vb",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Panel_Reporte.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\Panel_Reporte.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Panel_Reporte.vb",
+              "RelativeToolTip": "capa_Presentacion\\Panel_Reporte.vb",
+              "ViewState": "AgIAAGYAAAAAAAAAAAASwHEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T20:15:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Panel_Reporte.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Panel_Reporte.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\Panel_Reporte.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Panel_Reporte.vb [Dise\u00F1o]",
+              "RelativeToolTip": "capa_Presentacion\\Panel_Reporte.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T20:15:49.51Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reportes_Ventas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Reportes_Ventas.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\Reportes_Ventas.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Reportes_Ventas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "capa_Presentacion\\Reportes_Ventas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T20:15:23.602Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ventas.vb",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Ventas.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\Ventas.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Ventas.vb",
+              "RelativeToolTip": "capa_Presentacion\\Ventas.vb",
+              "ViewState": "AgIAANUAAAAAAAAAAAAqwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T19:05:37.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ventas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Ventas.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\Ventas.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\Ventas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "capa_Presentacion\\Ventas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T19:05:34.206Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "menuPanel.vb",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\menuPanel.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\menuPanel.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\menuPanel.vb",
+              "RelativeToolTip": "capa_Presentacion\\menuPanel.vb",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwFwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T18:54:02.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "inicio.vb",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\inicio.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\inicio.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\inicio.vb",
+              "RelativeToolTip": "capa_Presentacion\\inicio.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T18:53:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\inicio.vb",
+              "RelativeDocumentMoniker": "capa_Presentacion\\inicio.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_Presentacion\\inicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "capa_Presentacion\\inicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T18:53:07.104Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CN_Productos.vb",
+              "DocumentMoniker": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_negocio\\CN_Productos.vb",
+              "RelativeDocumentMoniker": "capa_negocio\\CN_Productos.vb",
+              "ToolTip": "C:\\Users\\andim\\OneDrive\\Escritorio\\G30_MbenitezAugusto_MedinaAndrea\\Tecno-Electro\\capa_negocio\\CN_Productos.vb",
+              "RelativeToolTip": "capa_negocio\\CN_Productos.vb",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T17:12:40.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
